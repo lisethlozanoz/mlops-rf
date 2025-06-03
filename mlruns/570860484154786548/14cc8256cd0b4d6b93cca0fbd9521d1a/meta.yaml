@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/570860484154786548/14cc8256cd0b4d6b93cca0fbd9521d1a/artifacts
+end_time: 1748971839352
+entry_point_name: ''
+experiment_id: '570860484154786548'
+lifecycle_stage: active
+run_id: 14cc8256cd0b4d6b93cca0fbd9521d1a
+run_name: bright-quail-175
+run_uuid: 14cc8256cd0b4d6b93cca0fbd9521d1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748971831176
+status: 3
+tags: []
+user_id: root

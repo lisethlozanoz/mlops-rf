@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/570860484154786548/d7493ba5c28342dfac70a314c03c36b4/artifacts
+end_time: 1748970781568
+entry_point_name: ''
+experiment_id: '570860484154786548'
+lifecycle_stage: active
+run_id: d7493ba5c28342dfac70a314c03c36b4
+run_name: nosy-zebra-300
+run_uuid: d7493ba5c28342dfac70a314c03c36b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748970773802
+status: 3
+tags: []
+user_id: root

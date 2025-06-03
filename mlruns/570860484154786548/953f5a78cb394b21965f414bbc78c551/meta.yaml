@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/570860484154786548/953f5a78cb394b21965f414bbc78c551/artifacts
+end_time: 1748971753267
+entry_point_name: ''
+experiment_id: '570860484154786548'
+lifecycle_stage: active
+run_id: 953f5a78cb394b21965f414bbc78c551
+run_name: victorious-rook-61
+run_uuid: 953f5a78cb394b21965f414bbc78c551
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748971745073
+status: 3
+tags: []
+user_id: root

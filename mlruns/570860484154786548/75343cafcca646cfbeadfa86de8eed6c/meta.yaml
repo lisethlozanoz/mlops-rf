@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/570860484154786548/75343cafcca646cfbeadfa86de8eed6c/artifacts
+end_time: 1748971661188
+entry_point_name: ''
+experiment_id: '570860484154786548'
+lifecycle_stage: active
+run_id: 75343cafcca646cfbeadfa86de8eed6c
+run_name: abundant-fowl-417
+run_uuid: 75343cafcca646cfbeadfa86de8eed6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748971651846
+status: 3
+tags: []
+user_id: root
